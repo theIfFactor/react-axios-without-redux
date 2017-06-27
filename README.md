@@ -418,8 +418,8 @@ class App extends Component {
     this.postCustomer = this.createCustomer.bind(this);
   }
 //skipping lines...
-postCustomer(customer) {
-  createCustomer(customer).then(response => {
+createCustomer(customer) {
+  postCustomer(customer).then(response => {
     getCustomerList().then(list => {
       this.setState({
         initialLoad:true,
