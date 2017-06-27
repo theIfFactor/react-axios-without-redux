@@ -383,7 +383,7 @@ In this step, we'll finish our CreateCustomer component so it can successfully c
     * In the `.then` callback function for `createCustomer`,  invoke `getCustomerList`. In the `getCustomerList` `.then` callback, we will call setState to make customerList equal the updated customerList we just received, and to set initialLoad to true.
 * Then we'll need to pass the createCustomer function down to the component that needs it. Pass createCustomer down to the Workspace component.
   * Open `src/components/Workspace/Workspace.js`.
-  * Add `createCustomer` to the props being desctructured.
+  * Add `createCustomer` to the props being destructured.
   * Pass `createCustomer` through props down to the CreateCustomer component.
   * Modify the `create` method so it invokes `createCustomer` after creating the customer object.
   * Make sure to pass in the customer object as a parameter.
