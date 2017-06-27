@@ -32,7 +32,7 @@ We'll begin by creating a service called `customers.js`. This service will hold 
 ### Instructions
 * Run `npm install --save axios`.
 * Create a file called `customers.js` in your `src` folder.
-  * Import axios from 'axios' and apiURL from `scr/api.js`.
+  * Import axios from 'axios' and apiURL from `src/api.js`.
   * We've created an `api.js` file in `src/`. This is a good method to follow as it allows you to fix the API url for the service files that use it. This beats having to update the URL one by one in each function in each service file.
 
 ### Solution
