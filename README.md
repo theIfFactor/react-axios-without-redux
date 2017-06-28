@@ -385,7 +385,7 @@ In this step, we'll finish our CreateCustomer component so it can successfully c
   * Open `src/components/Workspace/Workspace.js`.
   * Add `createCustomer` to the props being destructured.
   * Pass `createCustomer` through props down to the CreateCustomer component.
-  * Modify the `create` method so it invokes `createCustomer` after creating the customer object.
+  * In the CreateCustomer component, modify the `create` method so it invokes `createCustomer` after creating the customer object.
   * Make sure to pass in the customer object as a parameter.
 
 ### Solution
