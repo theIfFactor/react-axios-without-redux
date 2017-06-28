@@ -31,7 +31,7 @@ export default class ToggleEdit extends Component {
   }
 
   save() {
-  
+
   }
 
   render() {
