@@ -1102,12 +1102,12 @@ In this step, we'll create a function `deleteCustomer` in our customers service 
 * Open `src/components/Workspace/Customer/Customer.js`.
     * Do the same with `removeCustomer` as we did in Workspace. Destructure the variable in the parameters, then pass it down as props to RemoveCustomer.  
 * Open `src/components/Workspace/Customer/RemoveCustomer/RemoveCustomer.js`.
-  * Create a function on the component called `removeCustomer`.
-  * This function should invoke the `deleteCustomer` function that we just passed down through props.
+  * Create a function on the component called `remove`.
+  * This function should invoke the `removeCustomer` function that we just passed down through props.
     * Make sure to pass in the customer id from props as well.
     * Be sure that the function's context is bound to the RemoveCustomer component.
-  * pass the component function `removeCustomer` (this.removeCustomer) into the onClick property on the confirm button.
-* The `deleteCustomer` function should now be available everywhere we need it - try removing customers to make sure it's working.
+  * pass the component function `remove` (this.remove) into the onClick property on the confirm button.
+* The `removeCustomer` function should now be available everywhere we need it - try removing customers to make sure it's working.
 
 ### Solution
 
@@ -1218,7 +1218,7 @@ function Workspace( { initialLoad, creating, createCustomer, currentCustomer, sa
             </div>
           :
             currentCustomer
-            :
+            ?
               <Customer id={currentCustomer.id}
                         first={currentCustomer.first}
                         last={currentCustomer.last}
