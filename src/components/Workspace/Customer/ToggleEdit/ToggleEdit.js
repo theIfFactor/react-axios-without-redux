@@ -31,7 +31,12 @@ export default class ToggleEdit extends Component {
   }
 
   save() {
-
+    let temp = Object.assign({}, this.props.currentCustomer)
+    temp[this.props.property] = this.state.val;
+    this.props.saveEdit(this.props.id, temp);
+    this.setState({
+      editing: false
+    })
   }
 
   render() {

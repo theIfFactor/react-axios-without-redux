@@ -1,15 +1,6 @@
 {
   "customers": [
     {
-      "id": 1,
-      "first": "Bob",
-      "last": "Joe",
-      "status": "2015 macbook pro in for repair",
-      "email": "bobjoe@gmail.com",
-      "phone": "(386)-543-2353",
-      "log": "This\nis\na\ntest\nlog"
-    },
-    {
       "id": 2,
       "first": "Sarah",
       "last": "Croft",
@@ -17,6 +8,360 @@
       "email": "sarahcroft@gmail.com",
       "phone": "(325)-345-2352",
       "log": "This\nis\nanother\ntest\nlog"
+    },
+    {
+      "first": "Dny",
+      "id": 3
+    },
+    {
+      "first": "Dan",
+      "id": 4
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 8
+    },
+    {
+      "first": "Dny",
+      "id": 11
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 12
+    },
+    {
+      "first": "Dny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 13
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 14
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 15
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 16
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 17
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 18
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 19
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 20
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 21
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 22
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 23
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 24
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 25
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 26
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 27
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 28
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 29
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 30
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 31
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 32
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 33
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 34
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 35
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 36
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 37
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 38
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 39
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 40
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 41
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 42
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 43
+    },
+    {
+      "first": "Danny",
+      "last": "Vanhonigingle",
+      "email": "no",
+      "phone": "no",
+      "status": "New Customer",
+      "log": "",
+      "id": 44
+    },
+    {
+      "first": "Dan",
+      "last": "",
+      "email": "",
+      "phone": "",
+      "status": "New Customer",
+      "log": "",
+      "id": 45
+    },
+    {
+      "first": "Dan",
+      "last": "",
+      "email": "",
+      "phone": "",
+      "status": "New Customer",
+      "log": "",
+      "id": 46
+    },
+    {
+      "first": "Dan",
+      "last": "",
+      "email": "",
+      "phone": "",
+      "status": "New Customer",
+      "log": "",
+      "id": 47
+    },
+    {
+      "first": "Dan",
+      "last": "",
+      "email": "",
+      "phone": "",
+      "status": "New Customer",
+      "log": "",
+      "id": 48
     }
   ]
 }
